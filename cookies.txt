@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+.ld-wp.template-help.com	TRUE	/	FALSE	1829402512	_ga	GA1.3.385208963.1794842512
+.ld-wp.template-help.com	TRUE	/	FALSE	1794928912	_gid	GA1.3.1203672374.1794842512
+.ld-wp.template-help.com	TRUE	/	FALSE	1794842572	_gat_UA-1217838-28	1
+.ld-wp.template-help.com	TRUE	/	FALSE	1829402512	_ga_2BM4094Z6X	GS2.3.s1794842512$o1$g0$t1794842512$j60$l0$h0
+#HttpOnly_.vimeo.com	TRUE	/	TRUE	1794845340	__cf_bm	_t7m11vlg_85BqOJrTfQCdsH_H1v13exsm_1n8JtcA8-1794843540.3869777-1.0.1.1-Y9CwUIa0RwCwwA7u4ZbcPiwhPZlyf4cvwVtGWLia6Xqv0PbORBZRYMBQDVT6fd49kiJmi_1kMdQiCj2Lg7EYneAAhHy8tJJwQKuuhOMeSGFC1j20OC5corg7EM0zxGRs
